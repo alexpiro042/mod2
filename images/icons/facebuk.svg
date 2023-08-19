@@ -1,0 +1,27 @@
+<svg width="15" height="27" viewBox="0 0 15 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="15" height="27" fill="#E5E5E5"/>
+<g id="NFT Marketplace Website landing page" clip-path="url(#clip0_0_1)">
+<rect width="1600" height="7185" transform="translate(-472 -6944)" fill="#1C121F"/>
+<g id="Footer">
+<rect id="Rectangle 18" x="-472" y="-272" width="1601" height="512" fill="#251928"/>
+<g id="social icons">
+<path id="Vector" d="M9.76159 27V14.7041H13.9079L14.5242 9.88981H9.76159V6.82333C9.76159 5.43411 10.1485 4.48296 12.1414 4.48296H14.6667V0.190784C13.438 0.0590496 12.203 -0.00455774 10.9672 0.000253789C7.30229 0.000253789 4.78601 2.23861 4.78601 6.34775V9.88081H0.666687V14.6951H4.79501V27H9.76159Z" fill="#D53D5C"/>
+</g>
+</g>
+<g id="Blurr effect" filter="url(#filter0_f_0_1)">
+<rect x="-472" y="-268" width="202" height="167" fill="#D53D5C"/>
+</g>
+<g id="Subscribe">
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_1" x="-1022" y="-818" width="1302" height="1267" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="275" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1600" height="7185" fill="white" transform="translate(-472 -6944)"/>
+</clipPath>
+</defs>
+</svg>
